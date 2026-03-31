@@ -1,7 +1,7 @@
 [repository]
 REGISTRY_NAME = "tauffer-consulting"
 
-REPOSITORY_NAME = "data_apis_domino_pieces"
-REPOSITORY_LABEL = "Data APIs Domino Pieces"
+REPOSITORY_NAME = "data_apis_library_blocks"
+REPOSITORY_LABEL = "Data APIs Library Blocks"
 
 VERSION = "0.2.3"
